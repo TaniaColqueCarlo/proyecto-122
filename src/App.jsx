@@ -8,6 +8,7 @@ import SobreMi from './paginas/SobreMi'
 function App() {
   return (
     <>
+      <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum ut non autem similique repudiandae ab impedit commodi, porro minima error.</h3>
       <NavBar />
       <Routes>
         <Route index={true} element={<Bienvenida />} />
